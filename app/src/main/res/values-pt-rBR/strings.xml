@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OtraApp</string>
+    <string name="str_button">Mudar Idioma</string>
+    <string name="str_textview">Ola Mundo</string>
+    <string name="str_en">Inglês</string>
+    <string name="str_es">espanhol</string>
+    <string name="str_pt">Português</string>
+    <string name="str_ct">catalão</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OtraApp</string>
+    <string name="str_textview">" 10/5000 Hola Món"</string>
+    <string name="str_button">modifica l\'idioma</string>
+    <string name="str_en">Anglès</string>
+    <string name="str_es">espanyol</string>
+    <string name="str_pt">" portugues"</string>
+    <string name="str_ct">català</string>
+</resources>
